@@ -1,13 +1,14 @@
 # Education
 
-- **Cornell University, College of Engineering** \| Ithaca, NY            **August 2021**  
-  _Bachelor of Science, Computer Science_ \| _Minor in Business, Dyson School of Business_
+## Cornell University, College of Engineering
+_August 2021_  \| Ithaca, NY
+- Bachelor of Science, Computer Science \| Minor in Business, Dyson School of Business
   
-- **Jericho Senior High School** \| Jericho, NY                     **June 2016**  
-  **Honors & Awards:** AP Scholar w/ Distinction \| National Honor Society \| Spanish Honor Society \| Toshiba ExploraVision \| DuPont Essay Challenge
+## Jericho Senior High School
+_June 2016_ \| Jericho, NY  
+- **Honors & Awards:** AP Scholar w/ Distinction \| National Honor Society \| Spanish Honor Society \| Toshiba ExploraVision \| DuPont Essay Challenge
 
 # Skills
-
 ## Programming Languages
 
 - Java
