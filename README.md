@@ -1,8 +1,11 @@
+# Parker Feinerman
+
 # Education
 
-- **Cornell University, College of Engineering** \| Ithaca, NY        **Expected August 2021**  
-  _Bachelor of Science, Computer Science_ \| _Minor in Business, Dyson School of Business_  
-- **Jericho Senior High School** \| Jericho, NY                **June 2016**  
+- **Cornell University, College of Engineering** \| Ithaca, NY       **Expected August 2021**  
+  _Bachelor of Science, Computer Science_ \| _Minor in Business, Dyson School of Business_
+  
+- **Jericho Senior High School** \| Jericho, NY                        **June 2016**  
   **Honors & Awards:** AP Scholar w/ Distinction \| National Honor Society \| Spanish Honor Society \| Toshiba ExploraVision \| DuPont Essay Challenge
 
 ## Welcome to GitHub Pages
