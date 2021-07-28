@@ -55,6 +55,18 @@ _June 2016_ \| Jericho, NY
 - Windows Server
 - Android
 
+
+# Relevant Experience
+
+## 311PARK LLC
+_**Founder & CEO**_  
+_September 2012 - Present_ \| Syosset, NY  
+  
+**Services Include:** Technical Consulting, Invention Contracting, and Media Production for clients in FinTech, Professional Services, and other industries  
+- Technical Consulting includes software development, IT and network security, pen testing, website design, and server management.
+- Invention Contracting includes individually tailored assisted invention design and prototyping.
+- Media Production includes content creation and incubation, graphic design, and production partnerships.
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/Pfeinerman311/about/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
