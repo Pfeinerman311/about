@@ -9,52 +9,19 @@ _June 2016_ \| Jericho, NY
 - **Honors & Awards:** AP Scholar w/ Distinction \| National Honor Society \| Spanish Honor Society \| Toshiba ExploraVision \| DuPont Essay Challenge
 
 # Skills
-## Programming Languages
 
-- Java
-- Python
-- C/C++
-- OCaml
-- R
-- HTML
-- CSS
-- SQL
-- JSON
-- ROBOTC
-
-## Platforms/Databases
-
-- Google Cloud Platform
-- AWS
-- Wordpress
-- Git
-- MySQL
-- Zapier
-- Pipedrive
-- Infusionsoft
-- Oracle
-
-## Design/IDE Tools
-
-- Visual Studio Code
-- IntelliJ
-- Atom
-- Eclipse
-- Autodesk
-- Adobe Creative Cloud
-- Arduino IDE
-- Komodo
-- Logisim
-- Diptrace
-
-## Operating Systems
-
-- Windows
-- macOS
-- Linux (Debian/Ubuntu)
-- Windows Server
-- Android
-
+Programming Languages | Platforms/Databases | Design & IDE Tools | Operating Systems
+---- | ---- | ---- | ----
+Java | Google Cloud Platform | Visual Studio Code | Windows
+Python | AWS | IntelliJ | macOS
+C/C++ | Git | Atom | Linux (Debian/Ubuntu)
+OCaml | Wordpress | Eclipse | WIndows Server
+R | MySQL | Komodo | Android
+HTML | Zapier | Logisim
+CSS | Pipedrive | Diptrace
+SQL | Infusionsoft | Arduino IDE
+JSON | Oracle | Autodesk
+ROBOTC | | Adobe Creative Cloud
 
 # Relevant Experience
 
