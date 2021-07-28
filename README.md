@@ -1,6 +1,6 @@
 # Education
 
-- **Cornell University, College of Engineering** \| Ithaca, NY             **August 2021**  
+- **Cornell University, College of Engineering** \| Ithaca, NY            **August 2021**  
   _Bachelor of Science, Computer Science_ \| _Minor in Business, Dyson School of Business_
   
 - **Jericho Senior High School** \| Jericho, NY                     **June 2016**  
