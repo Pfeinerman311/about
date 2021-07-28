@@ -6,6 +6,54 @@
 - **Jericho Senior High School** \| Jericho, NY                     **June 2016**  
   **Honors & Awards:** AP Scholar w/ Distinction \| National Honor Society \| Spanish Honor Society \| Toshiba ExploraVision \| DuPont Essay Challenge
 
+# Skills
+
+## Programming Languages
+
+- Java
+- Python
+- C/C++
+- OCaml
+- R
+- HTML
+- CSS
+- SQL
+- JSON
+- ROBOTC
+
+## Platforms/Databases
+
+- Google Cloud Platform
+- AWS
+- Wordpress
+- Git
+- MySQL
+- Zapier
+- Pipedrive
+- Infusionsoft
+- Oracle
+
+## Design/IDE Tools
+
+- Visual Studio Code
+- IntelliJ
+- Atom
+- Eclipse
+- Autodesk
+- Adobe Creative Cloud
+- Arduino IDE
+- Komodo
+- Logisim
+- Diptrace
+
+## Operating Systems
+
+- Windows
+- macOS
+- Linux (Debian/Ubuntu)
+- Windows Server
+- Android
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/Pfeinerman311/about/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
