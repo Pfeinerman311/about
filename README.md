@@ -34,6 +34,22 @@ _September 2012 - Present_ \| Syosset, NY
 - Invention Contracting includes individually tailored assisted invention design and prototyping.
 - Media Production includes content creation and incubation, graphic design, and production partnerships.
 
+
+# Projects
+
+## CS 3110 - Poker
+
+### Overview
+
+
+### Individual Contributions
+
+
+### Code Snippet
+```
+
+```
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/Pfeinerman311/about/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
