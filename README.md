@@ -39,7 +39,7 @@ _September 2012 - Present_ \| Syosset, NY
 
 # Projects
 
-## [CS 3110 - Poker](https://github.com/Pfeinerman311/cs3110-poker)
+## CS 3110 - Poker
 
 ### Overview
 
@@ -83,10 +83,14 @@ type hand = {
   cards : card list;
 }
 ```
-### Outcomes
+### Difficulties
 
-Our team was quite productive during this sprint. While we ran into some productivity hiccups during the previous sprint  (bugs or accidentally implementing the same thing twice) we did a good job of communicating this sprint in order to avoid these problems. While we didn’t get to things such as fully implementing the game flow with more sophisticated bots we were able to accomplish much of what we set out to do, even considering the unexpected complexity.
+Our team was quite productive throughout the length of the project. While we ran into some productivity hiccups during the initial few weeks, (bugs or accidentally implementing the same thing twice), we ultimately did an excellent job of communicating in order to avoid these problems. While we didn’t get to things such as fully implementing the game flow with more sophisticated bots. we were able to accomplish much of what we set out to do despite the unexpected complexity.
 
 ### Demo
 
 ![poker](https://user-images.githubusercontent.com/22283357/128093580-75dde6c6-db0d-499f-aabf-b65d6e293b96.gif)
+
+### Project Reposity
+
+[**ACCESS THE CODE BASE HERE**](https://github.com/Pfeinerman311/cs3110-poker)
