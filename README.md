@@ -1,4 +1,4 @@
-# Parker Feinerman
+# 
 
 # Education
 
