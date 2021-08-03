@@ -39,14 +39,18 @@ _September 2012 - Present_ \| Syosset, NY
 
 # Projects
 
-## CS 3110 - Poker
-
-
+## [CS 3110 - Poker](https://github.com/Pfeinerman311/cs3110-poker)
 
 ### Overview
 
+For CS 3110: Data Structures and Functional Programming, I worked with a team of two other individuals to create a fully playable version of Texas Hold 'Em in OCaml. The project was worked on through the course of the semester, and was interactable though a command line interface 
 
 ### Individual Contributions
+
+- Designed and implement suite of data structures, including suits, ranks, cards, and hands
+- Built out and tested full best hand function and sub functions (takes in an input of community cards and player and returns the best possible hand for the specified player)
+- Created and tested hand comparator function
+- Created shuffle function
 
 
 ### Code Snippet
@@ -79,6 +83,9 @@ type hand = {
   cards : card list;
 }
 ```
+### Outcomes
+
+Our team was quite productive during this sprint. While we ran into some productivity hiccups during the previous sprint  (bugs or accidentally implementing the same thing twice) we did a good job of communicating this sprint in order to avoid these problems. While we didn’t get to things such as fully implementing the game flow with more sophisticated bots we were able to accomplish much of what we set out to do, even considering the unexpected complexity.
 
 ### Demo
 
