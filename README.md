@@ -1,5 +1,8 @@
 # Parker Feinerman
 
+- Computer Science Major at Cornell University, College of Engineering
+- Founder & CEO @ 311PARK LLC
+
 # Education
 
 ## Cornell University, College of Engineering
