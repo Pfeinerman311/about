@@ -1,7 +1,4 @@
----
-title: Parker Feinerman
-filename: about
----
+# Parker Feinerman
 
 # Education
 
